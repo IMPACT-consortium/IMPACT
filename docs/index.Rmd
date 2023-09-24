@@ -1,5 +1,5 @@
 ---
-title: "IMPACT"
+title: ""
 author: "LA Daamen"
 date: "`r Sys.Date()`"
 output:
@@ -12,5 +12,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![alt text here](C:\Users\ladaa\OneDrive\Documents\IMPACT)
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png)
+
 
