@@ -6,6 +6,8 @@ title: '![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png) Consort
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## After modification, please run rmarkdown::render_site() to update the website in the docs-folder.
+
 
 
 
