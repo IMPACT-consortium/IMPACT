@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 print("After modification, please run rmarkdown::render_site() to update the website in the docs-folder.")
 ```
 
-Dear visitor, 
+Dear visitor,
 
 Welcome at the webpage of the Improving Pancreatic Cancer Care by the Use of Computational Science and Technology (IMPACT) Consortium!
 
