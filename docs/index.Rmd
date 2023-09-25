@@ -12,7 +12,7 @@ print("After modification, please run rmarkdown::render_site() to update the web
 
 Dear visitor,
 
-Welcome at the webpage of the Improving Pancreatic Cancer Care by the Use of Computational Science and Technology (IMPACT) Consortium!
+Welcome to the webpage of the Improving Pancreatic Cancer Care by the Use of Computational Science and Technology (IMPACT) Consortium!
 
 Revolutionary developments in data science, such as the emergence of artificial intelligence, have a great potential to provide a solution for current obstacles in pancreatic cancer care. These innovative technologies are expected to bring profound contributions to improving diagnostic modalities and treatment strategies in the upcoming years. 
 
