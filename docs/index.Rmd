@@ -1,11 +1,12 @@
 ---
-title: '![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png) Consortium'
+title: "![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png) Consortium"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-```{r, results='hide'}
+
+```{r, results=FALSE}
 print("After modification, please run rmarkdown::render_site() to update the website in the docs-folder.")
 ```
 
