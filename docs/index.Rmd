@@ -1,11 +1,5 @@
 ---
 title: "![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png) Consortium"
-author: "LA Daamen"
-date: "`r Sys.Date()`"
-output:
-  html_document:  
-    toc: true
-    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
