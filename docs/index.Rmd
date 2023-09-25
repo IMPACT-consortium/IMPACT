@@ -5,8 +5,10 @@ title: '![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png) Consort
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r, results='hide'}
+print("After modification, please run rmarkdown::render_site() to update the website in the docs-folder.")
+```
 
-## After modification, please run rmarkdown::render_site() to update the website in the docs-folder.
 
 
 
