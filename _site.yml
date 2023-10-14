@@ -1,0 +1,18 @@
+name: "IMPACT-consortium"
+output_dir: "docs"
+navbar:
+  title: "IMPACT Consortium"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Collaborators"
+      href: centers.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Data overview"
+      href: data_overview.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    theme: cosmo

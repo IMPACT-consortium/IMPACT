@@ -1,8 +1,0 @@
-name: "IMPACT-consortium"
-navbar:
-  title: "IMPACT Consortium"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Collaborators"
-      href: centers.html
