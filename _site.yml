@@ -1,4 +1,4 @@
-name: "IMPACT-consortium"
+name: "https://impact-consortium.github.io/IMPACT/"
 output_dir: "docs"
 navbar:
   title: "IMPACT Consortium"
