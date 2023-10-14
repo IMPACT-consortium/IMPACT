@@ -2,6 +2,10 @@
 title: "Collaborators"
 ---
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/RACU logo.png){width=50%}\
+\
 Regional Academic Cancer Center Utrecht
 
 - Dr. Lois Daamen (clinical epidemiologist)
@@ -15,14 +19,19 @@ Regional Academic Cancer Center Utrecht
 - Prof. dr. Lenny Verkooijen (clinical epidemiologist)
 - Dr. Jip Prince (radiologist)
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/RACU logo.png)
+\
 
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/CZE logo.png){width=50%}\
+\
 Catharina Hospital Eindhoven
 
 - Prof. dr. Misha Luyer (HPB surgeon)
 - Dr. Joost Nederend (radiologist)
 - Drs. Mark Ramaekers (PhD student)
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/AUMC logo.png){width=50%}\
 Amsterdam University Medical Center
 
 - Dr. Inez Verpalen (radiology resident)
@@ -32,6 +41,10 @@ Amsterdam University Medical Center
 - Drs. C. Yung Nio (radiologist)
 - Drs. Femke Struik (radiologist)
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/LUMC logo.png){width=50%}\
+\
 Leiden University Medical Center
 
 - Drs. Bas Boekestijn (radiologist)
@@ -41,24 +54,41 @@ Leiden University Medical Center
 - Drs. Tom Dijkhuis (PhD student)
 - Drs. Martijn van Dam (PhD student)
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/UMCG logo.png){width=50%}\
+\
 University Medical Center Groningen
 
 - Dr. Robbert de Haas (radiologist)
 - Prof. dr. Joost Klaasse (HPB surgeon)
 - Drs. Jorieke Nijhuis (PhD student)
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/Erasmus logo.png){width=50%}\
+\
 Erasmus Medical Center
 
 - Drs. Francois Willemssen (radiologist)
 - Dr. Bas Groot Koerkamp (HPB surgeon)
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/MUMC logo.png){width=50%}\
+\
 Maastricht UMC+
 
 - Prof. dr. Steven Olde Damink (HPB surgeon)
 - Dr. Leonard Wee (assistant professor)
 - Drs. Nicole Hildebrand (PhD student)
 
+\
+
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/MST logo.png){width=50%}\
+\
 Medisch Spectrum Twente
 
 - Drs. Paul Akkermans (radiologist)
 - Dr. Mike Liem (HPB surgeon)
+
