@@ -1,8 +1,12 @@
 name: "IMPACT-consortium"
+output_dir: "docs"
 navbar:
   title: "IMPACT Consortium"
   left:
     - text: "Home"
       href: index.html
-    - text: "Centers"
+    - text: "Collaborators"
       href: centers.html
+output:
+  html_document:
+    theme: cosmo
