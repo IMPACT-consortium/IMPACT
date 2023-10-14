@@ -4,7 +4,7 @@ title: "Collaborators"
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/RACU logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/RACU logo.png){width=40%}\
 \
 Regional Academic Cancer Center Utrecht
 
@@ -21,7 +21,7 @@ Regional Academic Cancer Center Utrecht
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/CZE logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/CZE logo.png){width=40%}\
 \
 Catharina Hospital Eindhoven
 
@@ -31,7 +31,7 @@ Catharina Hospital Eindhoven
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/AUMC logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/AUMC logo.png){width=45%}\
 Amsterdam University Medical Center
 
 - Dr. Inez Verpalen (radiology resident)
@@ -43,7 +43,7 @@ Amsterdam University Medical Center
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/LUMC logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/LUMC logo.png){width=45%}\
 \
 Leiden University Medical Center
 
@@ -56,7 +56,7 @@ Leiden University Medical Center
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/UMCG logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/UMCG logo.png){width=35%}\
 \
 University Medical Center Groningen
 
@@ -66,7 +66,7 @@ University Medical Center Groningen
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/Erasmus logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/Erasmus logo.png){width=35%}\
 \
 Erasmus Medical Center
 
@@ -75,7 +75,7 @@ Erasmus Medical Center
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/MUMC logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/MUMC logo.png){width=45%}\
 \
 Maastricht UMC+
 
@@ -85,10 +85,16 @@ Maastricht UMC+
 
 \
 
-![](C:/Users/ladaa/OneDrive/Documents/IMPACT/MST logo.png){width=50%}\
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/MST logo.png){width=35%}\
 \
 Medisch Spectrum Twente
 
 - Drs. Paul Akkermans (radiologist)
 - Dr. Mike Liem (HPB surgeon)
 
+![](C:/Users/ladaa/OneDrive/Documents/IMPACT/NYU logo.png){width=40%}\
+New York University Langone Health
+
+- Prof. dr. Christopher Wolfgang (HBP surgeon)
+- Dr. Ammar Javed (associate professor)
+- Dr. Joseph Habib (PhD student, surgical resident)

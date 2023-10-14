@@ -1,6 +1,5 @@
 ---
-title: "![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png){width=75%}"
-subtitle: "Consortium"
+title: "![](C:/Users/ladaa/OneDrive/Documents/IMPACT/IMPACT logo v2.png){width=77%} Consortium"
 ---
 
 ```{r setup, include=FALSE}
@@ -12,15 +11,15 @@ print("After modification, please run rmarkdown::render_site() to update the web
 
 Dear visitor,
 
-Welcome to the website of the Improving Pancreatic Cancer Care by the Use of Computational Science and Technology (IMPACT) Consortium!
+Welcome to the website of the 'Improving Pancreatic Cancer Care by the Use of Computational Science and Technology' (IMPACT) Consortium! (ClinicalTrials.gov Identifier: NCT06055010)
 
-Revolutionary developments in data science, such as the emergence of artificial intelligence, have a great potential to provide a solution for current obstacles in pancreatic cancer care. These innovative technologies are expected to bring profound contributions to improving diagnostic modalities and treatment strategies in the upcoming years. 
+Revolutionary developments in Data Science, such as the emergence of Artificial Intelligence, have a great potential to provide a solution for current obstacles in pancreatic cancer care. These innovative technologies are expected to bring profound contributions to improving diagnostic modalities and (personalized) treatment strategies in the upcoming years. 
 
-The primary goal of the IMPACT Consortium is to enable the collection and sharing of large amounts of data for training, testing and validation of computer science tools to improve quality of care for patients with pancreatic cancer through collaboration of expert centers for pancreatic cancer care.
+The goal of the IMPACT Consortium is to enable efficient collection and sharing of large amounts of data for training, testing and validation of computer science tools focused on improving quality of care for patients with pancreatic cancer. Within this Consortium, multidisciplinary collaboration between computer scientists and medical specialists from expert centers for pancreatic cancer care is highly stimulated.
 
-This website shows the meta-data of datasets that are available upon reasonable request, refers to the public Github repository in which source code of projects conducted by Collaborators of the IMPACT Consortium can be found, and shows sub-projects that are currently ongoing. 
+This website shows projects conducted by Collaborators of the IMPACT Consortium and refers to the public Github repository in which source code of developed models and meta-data of datasets that are available upon reasonable request can be found. 
 
-On behalf of all participating centers,
+On behalf of all collaborators,
 
 Dr. L.A. Daamen, MD, PhD (Project Leader)
 

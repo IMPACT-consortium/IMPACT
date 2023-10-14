@@ -2,4 +2,13 @@
 title: "Projects"
 ---
 
-Projects
+\
+
+1. Deep learning for auto-segmentation of the residual pancreas after pancreatic resection\
+\
+Presented at EuSoMII annual meeting 13 October 2023\
+https://twitter.com/LoisDaamen/status/1712791272761549190
+
+
+
+
