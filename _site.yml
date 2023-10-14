@@ -7,6 +7,3 @@ navbar:
       href: index.html
     - text: "Collaborators"
       href: centers.html
-output:
-  html_document:
-    theme: cosmo
