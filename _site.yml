@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "IMPACT Consortium"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Centers"
+      href: centers.html
